@@ -1,1 +1,25 @@
+Habitual Privacy Policy
 
+This privacy policy outlines how our app collects, uses, and protects your personal information.
+
+Data Collection 
+Our app collects data related to app performance, including crash logs, diagnostics, and other app performance information. This data is used to improve the functionality and performance of our app.
+
+Data Use 
+We use the data collected by our app to improve the functionality and performance of our app. We do not share any data collected by our app with third parties.
+
+Data Storage 
+We store the data collected by our app for as long as necessary to provide our services and improve the functionality and performance of our app.
+
+Data Sharing 
+We do not share any data collected by or provided to our app with third parties.
+
+Data Security 
+We take the security of your data seriously. Data is encrypted in transit to ensure that it is transferred over a secure connection.
+
+User Rights 
+You have the right to access, update, or delete your personal information at any time. While we do not provide a way for you to request that your data be deleted, you can delete your data within the application itself.
+
+Changes to this Privacy Policy We may update this privacy policy from time to time. Any changes will be posted on this page.
+
+Contact Information If you have any questions or concerns about this privacy policy or our data collection practices, please contact us at rattra1803@gmail.com.
