@@ -18,7 +18,12 @@ Data Security
 We take the security of your data seriously. Data is encrypted in transit to ensure that it is transferred over a secure connection.
 
 User Rights 
-You have the right to access, update, or delete your personal information at any time. While we do not provide a way for you to request that your data be deleted, you can delete your data within the application itself.
+You have the right to access, update, or delete your personal information at any time. You can delete your data within the application itself, or our website contains the instructions on requesting to delete your account or your data.
+
+Deleting Your Data:
+https://www.habitually.co.uk/deleting-your-data-how-to
+Deleting Your Account:
+https://www.habitually.co.uk/deleting-accounts-how-to
 
 Changes to this Privacy Policy We may update this privacy policy from time to time. Any changes will be posted on this page.
 
