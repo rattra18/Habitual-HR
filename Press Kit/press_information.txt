@@ -1,0 +1,63 @@
+--- Why Create Habitually? ---
+The concept of a learning journal intrigued me—the idea that each day could lend its knowledge to the present was fascinating. I wanted to test if it was possible to translate such data into actionable knowledge and lessons, enabling me to live according to my wants and expectations.
+
+
+
+--- How Habitually is Made ---
+For this experimental project, I established the entire app's backend to work off Firebase's Realtime Database. I chose to natively develop Habitually for Android using Android Studio.
+
+Habitually comprises two main pillars:
+The base application that functions as a data-driven journal.
+Features related to driving insights and illustrating these to the user, serving their curiosity and personal journey.
+The goal is to create an intuitive and quick interface, making it easy for anyone to journal their daily lives. Additionally, Habitually uses Machine Learning to jumpstart people’s analysis and reflection on their lives according to their own wants and expectations.
+
+
+
+--- Why Release Habitually? ---
+What began as a personal project quickly gained traction after sharing it on a data forum on Reddit. With 2 million views and hundreds of downloads within a few days, it became clear that Habitually’s dual purpose as a habit tracker/journal and a well-being mood tracker was an evolution in journaling and accountability tools that people wanted.
+
+
+
+--- Google Play Store Listing ---
+Title: Habitually - Journal & Tracker
+Subtitle: Go from Autopilot to Author
+Description:
+With Habitually, your everyday life becomes a journey of self-discovery. Journal your life, track your well-being, and gain valuable insights. Habitually goes beyond simple tracking—it's about understanding your lifestyle, its impact on your well-being, and aligning it with your aspirations. Monitor your mental, physical, and social well-being within one powerful, customizable journal & mood tracker that produces cool-looking graphs to share your progress.
+
+What makes Habitually the best habit tracker and mood diary:
+
+♾️ Infinite Tracking
+Capture your life's journey from start to finish, documenting the entire spectrum of your experiences seamlessly.
+
+😁 Versatile Mood Tracking
+Habitually goes beyond happiness, offering a comprehensive view of your life by considering mental, physical, and social well-being.
+
+📊 Unmatched Insights
+Delve into your behavior and lifestyle impact with Habitually’s in-depth analysis of your daily actions. Track streaks, average times, and more.
+
+💪 Powerful Tracking
+Journal everything from simple answers to tracking detailed metrics like reading time or coffee intake in an intuitive app.
+
+☁️ Stress-Free Storage
+Focus on what matters while Habitually handles all data storage, ensuring seamless syncing and no data loss or backup stress.
+
+🔒 Enhanced Privacy
+Opt-in for extra privacy on individual habits or actions, securing your information with an additional layer of encryption.
+
+🤖 On-Device Machine Learning
+Habitually uses on-device machine learning to analyze your entries, showing how your lifestyle impacts your well-being.
+
+⬇️ Easy Export
+Your data is yours to control. With Habitually, you can easily export all your journal and well-being entries at any time. Export individual habits as .CSV files, your complete database as a .JSON file, and your mood diary as .CSV files. Manage and back up your data with ease.
+
+⏰ Custom Reminders
+Set reminders with Habitually to stay on track with your goals and habits, helping you live the life you want.
+
+🤔 Daily Introspection
+Engage in daily introspection with Habitually’s prompts, fostering self-reflection and tracking your evolving responses.
+
+And the best part: A truly useful free version. Nothing is restricted in this version of the app. We believe Habitually should be accessible to everyone, regardless of their budget. Therefore, there are no arbitrary restrictions. Ads are present simply to cover our costs. For an ad-free experience, watch a rewarded ad to gain premium access for 24 hours.
+
+Website: https://www.habitually.co.uk/
+Contact: ram@habitually.co.uk
+Reddit Post: https://www.reddit.com/r/dataisbeautiful/comments/1bywtmz/oc_ive_been_tracking_everything_in_my_life_for_a/
